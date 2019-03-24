@@ -1,0 +1,5 @@
+[prod]
+ec2-13-250-121-198.ap-southeast-1.compute.amazonaws.com ansible_user=ubuntu
+
+[dev]
+ec2-13-250-121-198.ap-southeast-1.compute.amazonaws.com ansible_user=ubuntu
